@@ -1,6 +1,6 @@
 ## About
 
-My journey into Data Analytics started through stock market trading and derivatives analysis. While analyzing Open Interest, FII activity, participant-wise positioning, and EOD market data from NSE, I developed a strong interest in working with data to uncover patterns and support decision-making.
+My journey into Data Analytics started through stock market trading and derivatives analysis. While analyzing Open Interest, FII activity, participant-wise positioning, and EOD market data from NSE, I developed a strong interest in working with data to uncover patterns and support decision making.
 
 This curiosity led me to learn Power BI, SQL, Python, and Microsoft Fabric, where I began building analytics dashboards and end-to-end projects. Today, I combine financial market knowledge with data analytics skills to transform complex datasets into actionable insights.
 
