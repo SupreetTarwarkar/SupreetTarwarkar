@@ -34,8 +34,8 @@ Python-based analysis of **7,043 telecom customer records** to understand churn 
 
 ### Domain Certifications
 
-* [NISM Series XIII: Common Derivatives Certification Examination](https://drive.google.com/file/d/1y-vlYHHk8XcMNJtmRJSD3oQTlIwfRMPX/view?usp=sharing)
-* [NISM Series V-A: Mutual Fund Distributors Certification Examination](https://drive.google.com/file/d/1jDL14rin0b3fA7Z8oF6_uvunKDjJfYWN/view?usp=sharing)
+* [NISM Series XIII: Common Derivatives Certification Examination](https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing)
+* [NISM Series V-A: Mutual Fund Distributors Certification Examination](https://drive.google.com/file/d/1qqVo34dcAP81UqBlCZS5xSwJJbaRqaYk/view?usp=sharing)
 
 ## Open to Opportunities
 
