@@ -1,8 +1,8 @@
 # Hi, I'm Supreet Tarwarkar
 
-I work in **Trading Operations and Reporting** and am transitioning into **Data Analytics**.
+I currently work in **Trading Operations and Reporting** and am transitioning into **Data Analytics**.
 
-My background includes financial reporting, market analysis, NSE derivatives data, and trading operations. I am now building hands-on analytics projects using Power BI, SQL, Python, and Microsoft Fabric.
+My background includes financial reporting, market analysis, NSE derivatives data, and trading operations. I am building hands-on analytics projects using **Power BI, SQL, Python, Microsoft Fabric, and Excel**.
 
 ## Skills
 
@@ -29,9 +29,9 @@ Python-based analysis of 7,043 telecom customer records to understand customer c
 
 ## Certifications
 
-* Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
-* Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
+* [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52)
+* [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870)
 
 ## Current Focus
 
-Building practical projects and strengthening my skills for **Data Analyst, Power BI Analyst, and Business Intelligence Analyst** roles.
+Seeking opportunities in **Data Analyst, Power BI Analyst, and Business Intelligence Analyst** roles.
