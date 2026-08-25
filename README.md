@@ -1,11 +1,37 @@
-## About
+# Hi, I'm Supreet Tarwarkar
 
-My journey into Data Analytics started through stock market trading and derivatives analysis. While analyzing Open Interest, FII activity, participant-wise positioning, and EOD market data from NSE, I developed a strong interest in working with data to uncover patterns and support decision making.
+I work in **Trading Operations and Reporting** and am transitioning into **Data Analytics**.
 
-This curiosity led me to learn Power BI, SQL, Python, and Microsoft Fabric, where I began building analytics dashboards and end-to-end projects. Today, I combine financial market knowledge with data analytics skills to transform complex datasets into actionable insights.
+My background includes financial reporting, market analysis, NSE derivatives data, and trading operations. I am now building hands-on analytics projects using Power BI, SQL, Python, and Microsoft Fabric.
 
-Skilled in Microsoft Fabric, Power BI, SQL, Python, PostgreSQL, Excel, DAX, Power Query, and Data Visualization. Passionate about Financial Analytics, Trading Analytics, and Data Analytics.
+## Skills
 
-NISM certified with domain expertise in financial markets, derivatives, and trading analytics.
+* **Power BI:** Power Query, DAX, Data Modeling, Dashboard Development
+* **SQL:** PostgreSQL, Joins, CTEs, Window Functions, Aggregations
+* **Python:** Pandas, NumPy, Matplotlib, Seaborn
+* **Microsoft Fabric:** Data Analytics and BI workflows
+* **Excel:** Reporting, Analysis, Data Validation
+* **Analytics:** EDA, Data Cleaning, Trend Analysis, Data Visualization
 
-Certified in Microsoft Power BI Data Analyst Associate (PL-300), Microsoft Fabric Analytics Engineer Associate (DP-600), and Microsoft Fabric Data Engineer Associate (DP-700).
+## Featured Projects
+
+### [NSE Derivatives Market Analytics Dashboard](https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard)
+
+Power BI dashboard analyzing NSE derivatives data across 500+ stocks and major indices, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.
+
+### [Financial Analytics Dashboard](https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard)
+
+End-to-end financial analytics project using Microsoft Fabric and Power BI to analyze 50K+ transactions and 3.9K+ customers.
+
+### [Telecom Customer Churn Analysis](https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis)
+
+Python-based analysis of 7,043 telecom customer records to understand customer churn patterns, service usage, tenure, and monthly charges.
+
+## Certifications
+
+* Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
+* Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
+
+## Current Focus
+
+Building practical projects and strengthening my skills for **Data Analyst, Power BI Analyst, and Business Intelligence Analyst** roles.
