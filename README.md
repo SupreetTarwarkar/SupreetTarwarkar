@@ -35,3 +35,8 @@ Python-based analysis of 7,043 telecom customer records to understand customer c
 ## Current Focus
 
 Seeking opportunities in **Data Analyst, Power BI Analyst, and Business Intelligence Analyst** roles.
+
+## Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/supreettarwarkar](https://www.linkedin.com/in/supreettarwarkar/)
+* **Email:** [supreet.tarwarkar29@gmail.com](mailto:supreet.tarwarkar29@gmail.com)
