@@ -18,7 +18,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="58" height="58"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel-Workbook.svg" alt="Microsoft Excel" title="Microsoft Excel" width="58" height="58"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" width="58" height="58"/>
 
 </div>
 
@@ -28,7 +28,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 ## 🛠️ SKILLS
 
-<table align="center">
+<table align="center" width="82%">
 <tr>
 <td align="center" width="90">
 <img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" alt="Microsoft Fabric" title="Microsoft Fabric" width="42"/>
@@ -55,7 +55,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Excel-Workbook.svg" alt="Microsoft Excel" title="Microsoft Excel" width="42"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" width="42"/>
 </td>
 <td align="center"><b>Reporting, Analysis, Data Validation</b></td>
 </tr>
@@ -73,42 +73,44 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 ## 📌 FEATURED PROJECTS
 
-<table align="center">
+<table align="center" width="100%">
+
 <tr>
-<td width="38%" align="center">
+<td width="34%" align="center" valign="middle">
 <a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard">
-<img src="https://raw.githubusercontent.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard/main/Images/1.%20Home.png" alt="NSE Derivatives Market Analytics Dashboard" width="100%"/>
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard/main/Images/1.%20Home.png" alt="NSE Derivatives Market Analytics Dashboard" width="280"/>
 </a>
 </td>
-<td align="center">
+<td width="66%" align="center" valign="middle">
 <h3><a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard">NSE Derivatives Market Analytics Dashboard</a></h3>
-Power BI dashboard analyzing NSE derivatives data across <b>500+ stocks and major indices</b>, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.
+<p>Power BI dashboard analyzing NSE derivatives data across <b>500+ stocks and major indices</b>, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.</p>
 </td>
 </tr>
 
 <tr>
-<td width="38%" align="center">
+<td width="34%" align="center" valign="middle">
 <a href="https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard">
-<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Financial-Analytics-Dashboard/main/Images/1.%20Home%20Page.png" alt="Financial Analytics Dashboard" width="100%"/>
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Financial-Analytics-Dashboard/main/Images/1.%20Home%20Page.png" alt="Financial Analytics Dashboard" width="280"/>
 </a>
 </td>
-<td align="center">
+<td width="66%" align="center" valign="middle">
 <h3><a href="https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard">Financial Analytics Dashboard</a></h3>
-End-to-end financial analytics project using <b>Microsoft Fabric, Power BI, and SQL</b> to analyze <b>50K+ transactions and 3.9K+ customers</b>, covering revenue, customer segmentation, transaction performance, fraud monitoring, and geographic analysis.
+<p>End-to-end financial analytics project using <b>Microsoft Fabric, Power BI, and SQL</b> to analyze <b>50K+ transactions and 3.9K+ customers</b>, covering revenue, customer segmentation, transaction performance, fraud monitoring, and geographic analysis.</p>
 </td>
 </tr>
 
 <tr>
-<td width="38%" align="center">
+<td width="34%" align="center" valign="middle">
 <a href="https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis">
-<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis/main/Images/1.%20Churn%20Rate.png" alt="Telecom Customer Churn Analysis" width="100%"/>
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis/main/Images/1.%20Churn%20Rate.png" alt="Telecom Customer Churn Analysis" width="280"/>
 </a>
 </td>
-<td align="center">
+<td width="66%" align="center" valign="middle">
 <h3><a href="https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis">Telecom Customer Churn Analysis</a></h3>
-Python-based analysis of <b>7,043 telecom customer records</b> to understand churn patterns across service type, tenure, monthly charges, and other customer characteristics.
+<p>Python-based analysis of <b>7,043 telecom customer records</b> to understand churn patterns across service type, tenure, monthly charges, and other customer characteristics.</p>
 </td>
 </tr>
+
 </table>
 
 </div>
