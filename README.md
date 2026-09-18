@@ -26,7 +26,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <div align="center">
 
-## 🛠️ SKILLS
+## SKILLS
 
 <table align="center" width="82%">
 <tr>
@@ -71,46 +71,44 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <div align="center">
 
-## 📌 FEATURED PROJECTS
+## FEATURED PROJECTS
 
-<table align="center" width="100%">
-
+<table align="center" width="82%">
 <tr>
-<td width="34%" align="center" valign="middle">
+<td align="center" width="105">
 <a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard">
-<img src="https://raw.githubusercontent.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard/main/Images/1.%20Home.png" alt="NSE Derivatives Market Analytics Dashboard" width="280"/>
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard/main/Images/1.%20Home.png" alt="NSE Derivatives Market Analytics Dashboard" width="88"/>
 </a>
 </td>
-<td width="66%" align="center" valign="middle">
-<h3><a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard">NSE Derivatives Market Analytics Dashboard</a></h3>
-<p>Power BI dashboard analyzing NSE derivatives data across <b>500+ stocks and major indices</b>, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.</p>
+<td align="center">
+<a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard"><b>NSE Derivatives Market Analytics Dashboard</b></a><br>
+<sub>Power BI dashboard analyzing NSE derivatives data across <b>500+ stocks and major indices</b>, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.</sub>
 </td>
 </tr>
 
 <tr>
-<td width="34%" align="center" valign="middle">
+<td align="center">
 <a href="https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard">
-<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Financial-Analytics-Dashboard/main/Images/1.%20Home%20Page.png" alt="Financial Analytics Dashboard" width="280"/>
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Financial-Analytics-Dashboard/main/Images/1.%20Home%20Page.png" alt="Financial Analytics Dashboard" width="88"/>
 </a>
 </td>
-<td width="66%" align="center" valign="middle">
-<h3><a href="https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard">Financial Analytics Dashboard</a></h3>
-<p>End-to-end financial analytics project using <b>Microsoft Fabric, Power BI, and SQL</b> to analyze <b>50K+ transactions and 3.9K+ customers</b>, covering revenue, customer segmentation, transaction performance, fraud monitoring, and geographic analysis.</p>
+<td align="center">
+<a href="https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard"><b>Financial Analytics Dashboard</b></a><br>
+<sub>End-to-end project using <b>Microsoft Fabric, Power BI, and SQL</b> to analyze <b>50K+ transactions and 3.9K+ customers</b>, covering revenue, customer segmentation, transaction performance, fraud monitoring, and geographic analysis.</sub>
 </td>
 </tr>
 
 <tr>
-<td width="34%" align="center" valign="middle">
+<td align="center">
 <a href="https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis">
-<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis/main/Images/1.%20Churn%20Rate.png" alt="Telecom Customer Churn Analysis" width="280"/>
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis/main/Images/1.%20Churn%20Rate.png" alt="Telecom Customer Churn Analysis" width="88"/>
 </a>
 </td>
-<td width="66%" align="center" valign="middle">
-<h3><a href="https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis">Telecom Customer Churn Analysis</a></h3>
-<p>Python-based analysis of <b>7,043 telecom customer records</b> to understand churn patterns across service type, tenure, monthly charges, and other customer characteristics.</p>
+<td align="center">
+<a href="https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis"><b>Telecom Customer Churn Analysis</b></a><br>
+<sub>Python-based analysis of <b>7,043 telecom customer records</b> to understand churn patterns across service type, tenure, monthly charges, and other customer characteristics.</sub>
 </td>
 </tr>
-
 </table>
 
 </div>
@@ -119,7 +117,9 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <div align="center">
 
-## 🏅 CERTIFICATIONS
+## CERTIFICATIONS
+
+### DATA & BI CERTIFICATIONS
 
 <table align="center">
 <tr>
@@ -144,7 +144,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 </tr>
 </table>
 
-### DOMAIN CERTIFICATIONS
+### FINANCIAL MARKETS CERTIFICATIONS
 
 <table align="center">
 <tr>
@@ -175,7 +175,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <div align="center">
 
-## 💼 OPEN TO OPPORTUNITIES
+## OPEN TO OPPORTUNITIES
 
 <p>
 Open to <b>Data Analyst, Power BI Analyst, and Business Intelligence Analyst</b> opportunities across India.
@@ -191,7 +191,7 @@ Also open to <b>freelance data analytics and dashboard projects</b>.
 
 <div align="center">
 
-## 🔗 CONNECT WITH ME
+## CONNECT WITH ME
 
 <p>
 <a href="https://www.linkedin.com/in/supreettarwarkar/">
