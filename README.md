@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align="center"><h3>Hi, I'm Supreet Jayant Tarwarkar</h3></div>
+<h1>Hi, I'm Supreet Jayant Tarwarkar</h1>
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
@@ -9,18 +9,6 @@
 I currently work in **Trading Operations and Reporting** and am transitioning into **Data Analytics**.
 
 My background includes financial reporting and NSE market analysis, and I build hands-on analytics projects using **Power BI, SQL, Python, Microsoft Fabric, and Excel**.
-
-<br>
-
-<img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" alt="Microsoft Fabric" title="Microsoft Fabric" width="58" height="58"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="58" height="58"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" width="58" height="58"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="58" height="58"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" width="58" height="58"/>
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
