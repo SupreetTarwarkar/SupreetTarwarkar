@@ -2,10 +2,10 @@
 <h1>Hi, I'm Supreet Jayant Tarwarkar</h1>
 <h3>Microsoft Fabric • Power BI • SQL • Python • Excel</h3><div>I currently work in <b>Trading Operations and Reporting</b> and am transitioning into <b>Data Analytics</b>.</div><div>My background includes financial reporting and NSE market analysis, and I build hands-on analytics projects using <b>Power BI, SQL, Python, Microsoft Fabric, and Excel</b>.</div><div align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div><div><br><b>SKILLS</b><br><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
 <img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" width="36" alt="Microsoft Fabric"/><br>
-<b>Microsoft Fabric</b><br><sub>Data Analytics & BI</sub>
+<b>Microsoft Fabric</b><br><sub>Data Analytics • ETL Pipelines • Data Modeling</sub>
 </div><div align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" alt="Power BI"/><br>
-<b>Power BI</b><br><sub>Power Query • DAX • Data Modeling • Dashboards</sub>
+<b>Power BI</b><br><sub>Power Query • DAX • Data Modeling • Data Visualization</sub>
 </div><div align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" alt="SQL / PostgreSQL"/><br>
 <b>SQL / PostgreSQL</b><br><sub>Joins • CTEs • Window Functions • Aggregations • Subqueries</sub>
@@ -15,7 +15,7 @@
 </div><div align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="36" alt="Microsoft Excel"/><br>
 <b>Microsoft Excel</b><br><sub>Reporting • Analysis • Data Validation</sub>
-</div><div align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div><b>Analytics</b><br><sub>EDA • Data Cleaning • Trend Analysis • Data Interpretation • Visualization</sub></div><div align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div><div><br><b>FEATURED PROJECTS</b><br><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
+</div><div align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div><b>Analytics</b><br><sub>EDA • Data Cleaning • Trend Analysis • Data Interpretation • Dashboard Documentation</sub></div><div align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div><div><br><b>FEATURED PROJECTS</b><br><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
 <a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard"><img src="https://raw.githubusercontent.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard/main/Images/1.%20Home.png" width="88" alt="NSE Derivatives Market Analytics Dashboard"/></a><br>
 <a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard"><b>NSE Derivatives Market Analytics Dashboard</b></a><br>
 <sub>Power BI dashboard analyzing NSE derivatives data across <b>500+ stocks and major indices</b>, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.</sub>
