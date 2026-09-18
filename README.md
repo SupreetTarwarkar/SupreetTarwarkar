@@ -18,27 +18,27 @@ My background includes financial reporting and NSE market analysis, and I build 
 <img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" width="36" alt="Microsoft Fabric"/><br>
 <b>Microsoft Fabric</b><br><sub>Data Analytics & BI</sub>
 </p>
-<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="48%" height="1" alt=""/></p>
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p>
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" alt="Power BI"/><br>
 <b>Power BI</b><br><sub>Power Query • DAX • Data Modeling • Dashboards</sub>
 </p>
-<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="48%" height="1" alt=""/></p>
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" alt="SQL / PostgreSQL"/><br>
 <b>SQL / PostgreSQL</b><br><sub>Joins • CTEs • Window Functions • Aggregations • Subqueries</sub>
 </p>
-<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="48%" height="1" alt=""/></p>
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" alt="Python"/><br>
 <b>Python</b><br><sub>Pandas • NumPy • Matplotlib • Seaborn</sub>
 </p>
-<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="48%" height="1" alt=""/></p>
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p>
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="36" alt="Microsoft Excel"/><br>
 <b>Microsoft Excel</b><br><sub>Reporting • Analysis • Data Validation</sub>
 </p>
-<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="48%" height="1" alt=""/></p>
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p><b>Analytics</b><br><sub>EDA • Data Cleaning • Trend Analysis • Data Interpretation • Visualization</sub></p>
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
