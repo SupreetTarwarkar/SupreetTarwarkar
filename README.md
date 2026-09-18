@@ -111,15 +111,11 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
-<p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
-
 <h3>OPEN TO OPPORTUNITIES</h3>
 
 <p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p>Open to <b>Data Analyst, Power BI Analyst, and Business Intelligence Analyst</b> opportunities across India.</p>
 <p>Also open to <b>freelance data analytics and dashboard projects</b>.</p>
-
-<p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
