@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi, I'm Supreet Jayant Tarwarkar</h1>
+<p align="center"><strong><font size="6">Hi, I'm Supreet Jayant Tarwarkar</font></strong></p>
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
