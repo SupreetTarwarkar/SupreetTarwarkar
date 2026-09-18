@@ -2,7 +2,6 @@
 
 <h1>Hi, I'm Supreet Jayant Tarwarkar</h1>
 
-<p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
 ### Data Analytics • Power BI • SQL • Python • Microsoft Fabric • Excel
 
@@ -65,9 +64,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
-<h3>CERTIFICATIONS</h3>
-
-<h4>DATA & BI CERTIFICATIONS</h4>
+<h3>DATA & BI CERTIFICATIONS</h3>
 <p>
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52"><img src="Profile-Assets/Certificates/pl300.png" width="58" alt="PL-300 Certificate"/></a><br>
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52"><b>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</b></a>
@@ -78,8 +75,8 @@ My background includes financial reporting and NSE market analysis, and I build 
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870"><b>Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)</b></a>
 </p>
 
-<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
-<h4>FINANCIAL MARKETS CERTIFICATIONS</h4>
+
+<h3>FINANCIAL MARKETS CERTIFICATIONS</h3>
 <p>
 <a href="https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing"><img src="Profile-Assets/Certificates/nism-xiii.png" width="58" alt="NISM Series XIII Certificate"/></a><br>
 <a href="https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing"><b>NISM Series XIII: Common Derivatives Certification Examination</b></a>
