@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Supreet Jayant Tarwarkar</h1>
-<h3>Microsoft Fabric • Power BI • SQL • Python • Excel</h3><div>I currently work in <b>Trading Operations and Reporting</b> and am transitioning into <b>Data Analytics</b>.</div><div>My background includes financial reporting and NSE market analysis, and I build hands-on analytics projects using <b>Power BI, SQL, Python, Microsoft Fabric, and Excel</b>.</div><div align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div><div><br><b>SKILLS</b><br><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
+<h3>Microsoft Fabric • Power BI • SQL • Python • Excel</h3><div>I currently work in <b>Trading Operations and Reporting</b> and am transitioning into <b>Data Analytics</b>.</div><div>My background includes financial reporting and NSE market analysis, and I build hands-on analytics projects using <b>Microsoft Fabric, Power BI, SQL, Python, and Excel</b>.</div><div align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></div><div><br><b>SKILLS</b><br><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
 <img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" width="36" alt="Microsoft Fabric"/><br>
 <b>Microsoft Fabric</b><br><sub>Data Analytics • ETL Pipelines • Data Modeling</sub>
 </div><div align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></div><div>
