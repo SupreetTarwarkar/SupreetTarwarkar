@@ -22,13 +22,13 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## SKILLS
 
-<table align="center" width="88%">
+<table align="center" width="82%">
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" alt="Microsoft Fabric" title="Microsoft Fabric" width="36"/><br>
@@ -67,7 +67,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -113,7 +113,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -121,7 +121,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 ### DATA & BI CERTIFICATIONS
 
-<table align="center">
+<table align="center" width="82%">
 <tr>
 <td align="center" width="82">
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52">
@@ -146,7 +146,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 ### FINANCIAL MARKETS CERTIFICATIONS
 
-<table align="center">
+<table align="center" width="82%">
 <tr>
 <td align="center" width="82">
 <a href="https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing">
@@ -171,7 +171,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -187,7 +187,7 @@ Also open to <b>freelance data analytics and dashboard projects</b>.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -208,4 +208,4 @@ Also open to <b>freelance data analytics and dashboard projects</b>.
 
 </div>
 
----
+<br>
