@@ -28,40 +28,40 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 ## SKILLS
 
-<table align="center" width="82%">
+<table align="center" width="88%">
 <tr>
-<td align="center" width="90">
-<img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" alt="Microsoft Fabric" title="Microsoft Fabric" width="42"/>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/FabricTools/fabric-icons/main/node_modules/%40fabric-msft/svg-icons/svg/fabric_48_color.svg" alt="Microsoft Fabric" title="Microsoft Fabric" width="36"/><br>
+<b>Microsoft Fabric</b><br>
+<sub>Data Analytics & BI</sub>
 </td>
-<td align="center"><b>Data Analytics and BI</b></td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="36"/><br>
+<b>Power BI</b><br>
+<sub>Power Query • DAX • Data Modeling • Dashboards</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" width="36"/><br>
+<b>SQL / PostgreSQL</b><br>
+<sub>Joins • CTEs • Window Functions • Aggregations • Subqueries</sub>
+</td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="36"/><br>
+<b>Python</b><br>
+<sub>Pandas • NumPy • Matplotlib • Seaborn</sub>
 </td>
-<td align="center"><b>Power Query, DAX, Data Modeling, Dashboard Development</b></td>
-</tr>
-<tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" width="42"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" width="36"/><br>
+<b>Microsoft Excel</b><br>
+<sub>Reporting • Analysis • Data Validation</sub>
 </td>
-<td align="center"><b>PostgreSQL, Joins, CTEs, Window Functions, Aggregations, Subqueries</b></td>
-</tr>
-<tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="42"/>
+<span style="font-size:32px">▥</span><br>
+<b>Analytics</b><br>
+<sub>EDA • Data Cleaning • Trend Analysis • Data Interpretation • Visualization</sub>
 </td>
-<td align="center"><b>Pandas, NumPy, Matplotlib, Seaborn</b></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel" width="42"/>
-</td>
-<td align="center"><b>Reporting, Analysis, Data Validation</b></td>
-</tr>
-<tr>
-<td align="center">📊</td>
-<td align="center"><b>EDA, Data Cleaning, Trend Analysis, Data Interpretation, Data Visualization</b></td>
 </tr>
 </table>
 
