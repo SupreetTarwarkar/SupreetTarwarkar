@@ -93,8 +93,7 @@ My background includes financial reporting and NSE market analysis, and I build 
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870"><b>Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)</b></a>
 </p>
 
-
-
+<p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
 <h3>FINANCIAL MARKETS CERTIFICATIONS</h3>
 
@@ -112,13 +111,21 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
+<p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
+
 <h3>OPEN TO OPPORTUNITIES</h3>
+
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p>Open to <b>Data Analyst, Power BI Analyst, and Business Intelligence Analyst</b> opportunities across India.</p>
 <p>Also open to <b>freelance data analytics and dashboard projects</b>.</p>
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
+<p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
+
 <h3>CONNECT WITH ME</h3>
+
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 <p>
 <a href="https://www.linkedin.com/in/supreettarwarkar/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="44"/></a>
 &nbsp;&nbsp;&nbsp;
