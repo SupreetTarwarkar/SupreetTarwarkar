@@ -123,8 +123,10 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <table align="center">
 <tr>
-<td align="center" width="70">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Certified.png" alt="Microsoft Certified" width="38"/>
+<td align="center" width="82">
+<a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52">
+<img src="Profile-Assets/Certificates/pl300.png" alt="PL-300 Certificate" width="58"/>
+</a>
 </td>
 <td align="center">
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52"><b>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</b></a>
@@ -132,7 +134,9 @@ My background includes financial reporting and NSE market analysis, and I build 
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Certified.png" alt="Microsoft Certified" width="38"/>
+<a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870">
+<img src="Profile-Assets/Certificates/dp600.png" alt="DP-600 Certificate" width="58"/>
+</a>
 </td>
 <td align="center">
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870"><b>Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)</b></a>
@@ -144,13 +148,21 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <table align="center">
 <tr>
-<td align="center" width="70">🏦</td>
+<td align="center" width="82">
+<a href="https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing">
+<img src="Profile-Assets/Certificates/nism-xiii.png" alt="NISM Series XIII Certificate" width="58"/>
+</a>
+</td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing"><b>NISM Series XIII: Common Derivatives Certification Examination</b></a>
 </td>
 </tr>
 <tr>
-<td align="center">🏦</td>
+<td align="center">
+<a href="https://drive.google.com/file/d/1qqVo34dcAP81UqBlCZS5xSwJJbaRqaYk/view?usp=sharing">
+<img src="Profile-Assets/Certificates/nism-va.png" alt="NISM Series V-A Certificate" width="58"/>
+</a>
+</td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1qqVo34dcAP81UqBlCZS5xSwJJbaRqaYk/view?usp=sharing"><b>NISM Series V-A: Mutual Fund Distributors Certification Examination</b></a>
 </td>
