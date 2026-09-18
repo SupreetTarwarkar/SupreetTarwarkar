@@ -42,6 +42,8 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
+
 <h3>FEATURED PROJECTS</h3>
 
 <p>
@@ -64,6 +66,8 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
+
 <h3>DATA & BI CERTIFICATIONS</h3>
 <p>
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52"><img src="Profile-Assets/Certificates/pl300.png" width="58" alt="PL-300 Certificate"/></a><br>
@@ -75,6 +79,8 @@ My background includes financial reporting and NSE market analysis, and I build 
 <a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870"><b>Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)</b></a>
 </p>
 
+
+<p align="center"><img src="Profile-Assets/skill-line-white.svg" width="62%" alt=""/></p>
 
 <h3>FINANCIAL MARKETS CERTIFICATIONS</h3>
 <p>
