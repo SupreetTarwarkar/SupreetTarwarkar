@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Supreet Tarwarkar
+# Hi, I'm Supreet Jayant Tarwarkar
+
+<p align="center"><img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/></p>
 
 ### Data Analytics • Power BI • SQL • Python • Microsoft Fabric • Excel
 
