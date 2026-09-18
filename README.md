@@ -30,7 +30,7 @@ My background includes financial reporting and NSE market analysis, and I build 
   <img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/>
 </p>
 
-<h2 align="center">SKILLS</h2>
+<h3 align="center">SKILLS</h3>
 
 <table align="center" width="82%">
 <tr>
@@ -79,7 +79,7 @@ My background includes financial reporting and NSE market analysis, and I build 
   <img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/>
 </p>
 
-<h2 align="center">FEATURED PROJECTS</h2>
+<h3 align="center">FEATURED PROJECTS</h3>
 
 <table align="center" width="82%">
 <tr>
@@ -129,7 +129,7 @@ My background includes financial reporting and NSE market analysis, and I build 
   <img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/>
 </p>
 
-<h2 align="center">CERTIFICATIONS</h2>
+<h3 align="center">CERTIFICATIONS</h3>
 
 ### DATA & BI CERTIFICATIONS
 
@@ -191,7 +191,7 @@ My background includes financial reporting and NSE market analysis, and I build 
   <img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/>
 </p>
 
-<h2 align="center">OPEN TO OPPORTUNITIES</h2>
+<h3 align="center">OPEN TO OPPORTUNITIES</h3>
 
 <p>
 Open to <b>Data Analyst, Power BI Analyst, and Business Intelligence Analyst</b> opportunities across India.
@@ -211,7 +211,7 @@ Also open to <b>freelance data analytics and dashboard projects</b>.
   <img src="Profile-Assets/section-line.svg" width="82%" alt="section divider"/>
 </p>
 
-<h2 align="center">CONNECT WITH ME</h2>
+<h3 align="center">CONNECT WITH ME</h3>
 
 <p>
 <a href="https://www.linkedin.com/in/supreettarwarkar/">
