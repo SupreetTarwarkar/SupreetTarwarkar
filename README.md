@@ -10,11 +10,16 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <br>
 
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel"/>
+<!-- Tool logos: Microsoft Fabric → Power BI → SQL → Python → Excel -->
+<img src="https://cdn.simpleicons.org/microsoftfabric/742774" alt="Microsoft Fabric" title="Microsoft Fabric" width="58" height="58"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="58" height="58"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" width="58" height="58"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="58" height="58"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" title="Microsoft Excel" width="58" height="58"/>
 
 </div>
 
@@ -24,28 +29,38 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 <table>
 <tr>
-<td><b>Power BI</b></td>
-<td>Power Query, DAX, Data Modeling, Dashboard Development</td>
+<td align="center" width="90">
+<img src="https://cdn.simpleicons.org/microsoftfabric/742774" alt="Microsoft Fabric" title="Microsoft Fabric" width="42"/>
+</td>
+<td><b>Data Analytics and BI</b></td>
 </tr>
 <tr>
-<td><b>SQL</b></td>
-<td>PostgreSQL, Joins, CTEs, Window Functions, Aggregations, Subqueries</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="42"/>
+</td>
+<td><b>Power Query, DAX, Data Modeling, Dashboard Development</b></td>
 </tr>
 <tr>
-<td><b>Python</b></td>
-<td>Pandas, NumPy, Matplotlib, Seaborn</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" width="42"/>
+</td>
+<td><b>PostgreSQL, Joins, CTEs, Window Functions, Aggregations, Subqueries</b></td>
 </tr>
 <tr>
-<td><b>Microsoft Fabric</b></td>
-<td>Data Analytics and BI</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="42"/>
+</td>
+<td><b>Pandas, NumPy, Matplotlib, Seaborn</b></td>
 </tr>
 <tr>
-<td><b>Excel</b></td>
-<td>Reporting, Analysis, Data Validation</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Microsoft Excel" title="Microsoft Excel" width="42"/>
+</td>
+<td><b>Reporting, Analysis, Data Validation</b></td>
 </tr>
 <tr>
-<td><b>Data Analytics</b></td>
-<td>EDA, Data Cleaning, Trend Analysis, Data Interpretation, Data Visualization</td>
+<td align="center">📊</td>
+<td><b>EDA, Data Cleaning, Trend Analysis, Data Interpretation, Data Visualization</b></td>
 </tr>
 </table>
 
@@ -53,45 +68,83 @@ My background includes financial reporting and NSE market analysis, and I build 
 
 ## 📌 FEATURED PROJECTS
 
-### 📈 [NSE Derivatives Market Analytics Dashboard](https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard)
+<table>
+<tr>
+<td width="38%" align="center">
+<a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard">
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard/main/Images/1.%20Home.png" alt="NSE Derivatives Market Analytics Dashboard" width="100%"/>
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/SupreetTarwarkar/NSE-Derivatives-Market-Analytics-Dashboard">NSE Derivatives Market Analytics Dashboard</a></h3>
+Power BI dashboard analyzing NSE derivatives data across <b>500+ stocks and major indices</b>, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.
+</td>
+</tr>
 
-Power BI dashboard analyzing NSE derivatives data across **500+ stocks and major indices**, including Open Interest trends, Long/Short build-ups, participant positioning, and FII activity.
+<tr>
+<td width="38%" align="center">
+<a href="https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard">
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Financial-Analytics-Dashboard/main/Images/1.%20Home%20Page.png" alt="Financial Analytics Dashboard" width="100%"/>
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard">Financial Analytics Dashboard</a></h3>
+End-to-end financial analytics project using <b>Microsoft Fabric, Power BI, and SQL</b> to analyze <b>50K+ transactions and 3.9K+ customers</b>, covering revenue, customer segmentation, transaction performance, fraud monitoring, and geographic analysis.
+</td>
+</tr>
 
----
-
-### 💹 [Financial Analytics Dashboard](https://github.com/SupreetTarwarkar/Financial-Analytics-Dashboard)
-
-End-to-end financial analytics project using **Microsoft Fabric, Power BI, and SQL** to analyze **50K+ transactions and 3.9K+ customers**, covering revenue, customer segmentation, transaction performance, fraud monitoring, and geographic analysis.
-
----
-
-### 📊 [Telecom Customer Churn Analysis](https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis)
-
-Python-based analysis of **7,043 telecom customer records** to understand churn patterns across service type, tenure, monthly charges, and other customer characteristics.
+<tr>
+<td width="38%" align="center">
+<a href="https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis">
+<img src="https://raw.githubusercontent.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis/main/Images/1.%20Churn%20Rate.png" alt="Telecom Customer Churn Analysis" width="100%"/>
+</a>
+</td>
+<td>
+<h3><a href="https://github.com/SupreetTarwarkar/Telecom-Customer-Churn-Analysis">Telecom Customer Churn Analysis</a></h3>
+Python-based analysis of <b>7,043 telecom customer records</b> to understand churn patterns across service type, tenure, monthly charges, and other customer characteristics.
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏅 CERTIFICATIONS
 
-<div align="left">
-
-<a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-PL--300%20Power%20BI%20Data%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-300"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-DP--600%20Fabric%20Analytics%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DP-600"/>
-</a>
-
-</div>
-
-* [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52)
-* [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870)
+<table>
+<tr>
+<td align="center" width="70">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Certified.png" alt="Microsoft Certified" width="38"/>
+</td>
+<td>
+<a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/b29f0f1736af0b52"><b>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</b></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Certified.png" alt="Microsoft Certified" width="38"/>
+</td>
+<td>
+<a href="https://learn.microsoft.com/en-us/users/supreettarwarkar/credentials/63b7b94a00ef0870"><b>Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)</b></a>
+</td>
+</tr>
+</table>
 
 ### DOMAIN CERTIFICATIONS
 
-* [NISM Series XIII: Common Derivatives Certification Examination](https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing)
-* [NISM Series V-A: Mutual Fund Distributors Certification Examination](https://drive.google.com/file/d/1qqVo34dcAP81UqBlCZS5xSwJJbaRqaYk/view?usp=sharing)
+<table>
+<tr>
+<td align="center" width="70">🏦</td>
+<td>
+<a href="https://drive.google.com/file/d/1ZmEC8ScHeNRhQGdDJxY3vyzqr2PrZcIT/view?usp=sharing"><b>NISM Series XIII: Common Derivatives Certification Examination</b></a>
+</td>
+</tr>
+<tr>
+<td align="center">🏦</td>
+<td>
+<a href="https://drive.google.com/file/d/1qqVo34dcAP81UqBlCZS5xSwJJbaRqaYk/view?usp=sharing"><b>NISM Series V-A: Mutual Fund Distributors Certification Examination</b></a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,17 +158,15 @@ Python-based analysis of **7,043 telecom customer records** to understand churn 
 
 ## 🔗 CONNECT WITH ME
 
-<div align="left">
-
+<p align="left">
 <a href="https://www.linkedin.com/in/supreettarwarkar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Supreet%20Tarwarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn" width="44"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:supreet.tarwarkar29@gmail.com">
-  <img src="https://img.shields.io/badge/Email-supreet.tarwarkar29%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" title="Email" width="44"/>
 </a>
-
-</div>
+</p>
 
 * **LinkedIn:** [Supreet Tarwarkar](https://www.linkedin.com/in/supreettarwarkar/)
 * **Email:** [supreet.tarwarkar29@gmail.com](mailto:supreet.tarwarkar29@gmail.com)
